@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @L-V-P-Monteiro
-- 👀 I’m interested in web-development and object oriented programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: leonnardo.monteiro@gmail.com
+- Hi, I’m @L-V-P-Monteiro
+- I’m interested in Data Analytics and Machine Learning
+- I’m currently studying Data Science;
+- I’m looking for an intership to start my career in the field;
+- How to reach me: leonnardo.monteiro@gmail.com
